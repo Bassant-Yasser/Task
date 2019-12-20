@@ -1,0 +1,210 @@
+.body
+{
+   font-family: 'segoe ui light';
+}
+
+
+
+
+
+
+
+
+.top
+{
+   letter-spacing: 0.5rem;
+   text-align: center;
+   font-weight: normal;
+   
+
+
+
+}
+
+.top2
+{   color: grey;
+    font-style: italic;
+    text-align: center;
+   
+
+
+
+
+}
+
+.all
+{
+ 
+ overflow: auto;
+ width: 80%;
+ margin: auto;
+ margin-top: 2.5rem;
+
+}
+
+.right
+{
+  
+   width: 524px;
+   float: right;
+   margin-top: 1.2rem;
+   margin-right: 0.5rem;
+  
+  
+
+
+}
+
+.right .name input
+{
+    padding:  0.4rem 0.7rem;
+    width: 250px;
+    
+   
+   
+  
+  
+
+
+}
+
+.right .email input
+{
+    padding:  0.4rem 0.7rem;
+    width: 250px;
+    
+    
+  
+
+
+}
+
+.right .message input
+{
+    padding:  0.4rem 0.7rem;
+    width: 524px;
+   
+
+
+}
+.sss
+{
+    overflow: auto;
+    
+}
+.name
+{
+  float: left;
+ 
+
+  margin-right: 1.5rem;
+
+}
+.message
+{
+    float: left;
+    
+    margin-top: 0.5rem;
+
+}
+.send
+{
+  float: right;
+  margin-top: 0.5rem;
+
+}
+.send button
+{
+
+    color: white;
+    background-color: black;
+    padding: 0.5rem;
+    border: none;
+    font-weight: bold;
+}
+
+
+
+
+
+.left
+{
+    width: 40%;
+
+    float: left;
+}
+.input1
+{
+   
+    overflow: auto;
+    
+}
+
+.input1 i
+{
+  float: left;
+  padding-top: 1.2rem;
+  padding-right: 1.3rem;
+
+}
+
+.input1 h3
+{
+  float: left;
+
+}
+
+.input1 input
+{
+  float: right;
+
+}
+
+.input2
+{
+    
+    overflow: auto;
+}
+
+.input2 i
+{
+  float: left;
+  padding-top: 1.2rem;
+  padding-right: 1.3rem;
+
+}
+
+.input2 h3
+{
+  float: left;
+
+}
+
+
+.input3
+{
+   
+    overflow: auto;
+}
+
+.input3 i
+{
+  float: left;
+  padding-top: 1.2rem;
+  padding-right: 1.3rem;
+
+}
+
+.input3 h3
+{
+  float: left;
+
+}
+
+
+
+
+
+
+
+
